@@ -1,6 +1,6 @@
 # PKHeX Bulk Egg Generator
 ## About
-Previously called the Bulk Pokemon Importer. The Bulk Egg Generator is a PKHeX plugin that allows you to generate eggs in your Pokemon save files. There are additional options that allow the user to control certain aspects of the generated eggs, such as their typing, IVs, nature, and so on.
+Previously called the Bulk Pokemon Importer, Bulk Egg Generator is a PKHeX plugin that allows you to generate eggs in your Pokemon save files. There are additional options that allow the user to control certain aspects of the generated eggs, such as their typing, IVs, nature, and so on.
 
 ## Current Features
 * Bulk generate up to 100 Pokemon eggs at a time
@@ -11,7 +11,7 @@ Previously called the Bulk Pokemon Importer. The Bulk Egg Generator is a PKHeX p
 * Set the chance of a Pokemon having egg moves
 
 ## Installation
-Download the latest version from the <a href="https://github.com/CDNRae/pkhex-bulk-importer/releases">releases</a> page, and extract the contents to /PKHex/plugins.  If you don't have a plugins folder in your PKHeX directory, you'll have to create one.
+Download the latest version from the <a href="https://github.com/BakaKaito/pkhex-bulk-egg-generator-plugin/releases">releases</a> page, and extract the contents to /PKHex/plugins.  If you don't have a plugins folder in your PKHeX directory, you'll have to create one.
 
 ## Usage
 Once the plugin has been installed, you can view it under the "Tools" menu in PKHeX.  Click on the "Egg Generator" sub-menu item to open the Egg Generator. Set the options as you please, and when you're ready, hit "Generate Eggs". You should see your PC boxes fill up with Pokemon Eggs shortly after.
